@@ -5,6 +5,7 @@ Main.java contains my attempt at writing a code for a QM algorithm.
 I found that I struggled quite a bit with visualizing what I was doing, which led me to storing everything in lists and arraylists.
 While I got the project to run, it didn't run particularly well. It can handle most cases and achieve a good output such as,
 <table>
+  <th></th>
 <td>.i 4</td>
 <td>.o 1</td>
 <td>.ilb A B C D</td>
@@ -18,6 +19,7 @@ While I got the project to run, it didn't run particularly well. It can handle m
 <td>1101 1</td>
 <td>1110 1</td>
 <td>.e</td>
+ <th></th>
 </table>
 
 Which was an example implemented in class. The output expression is,
