@@ -39,4 +39,6 @@ However, when I start to throw more complex concepts into the code, it starts to
 The most difficult part was keeping track of the variables. While, naturally, it was not as difficult as doing it by hand, I found that myself creating new lists for almost every action.
 If I had given myself more time, I think I would have come up with something much cleaner, but so much time was spent on trying to visualize the steps as they were happening.
 
+I ran into the most trouble with row and column dominance, and consulted with ChatGPT to solve a few issues, especially in the variable handling. I asked it for an idea on how to approach the code, and it gave a roundabout response that I had to piece and idea out of.
+
 Overall, it was a great learning experience.
