@@ -50,7 +50,7 @@ public class Main {
 
     public static void main(String[] args) {
         // Path to the input .pla file
-        String filePath = "C:\\Users\\Erica\\IdeaProjects\\QM_MyWAY\\src\\main\\resources\\input.pla";
+        String filePath = "/input.pla";
 
         /*
         There are 3 formats to be prepared for
@@ -147,6 +147,7 @@ public class Main {
     }
 
     //this method parses the input .pla
+    //the actual file reading is from chatGPT
     public static void readPlaFile(String filePath) throws IOException {
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
