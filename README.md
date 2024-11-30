@@ -4,7 +4,8 @@ Final project for course.
 Main.java contains my attempt at writing a code for a QM algorithm.
 I found that I struggled quite a bit with visualizing what I was doing, which led me to storing everything in lists and arraylists.
 While I got the project to run, it didn't run particularly well. It can handle most cases and achieve a good output such as,
-.i 4\n
+.i 4
+<br>
 .o 1
 .ilb A B C D
 0010 1
