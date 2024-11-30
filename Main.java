@@ -348,7 +348,8 @@ public class Main {
         }
         return true;
     }
-
+    
+    //Got help from chatGPT
     private static void columnDominance() {
         boolean columnRemoved = true;
 
@@ -405,6 +406,7 @@ public class Main {
         }
     }
 
+    //Got help from chatGPT
     private static void rowDominance() {
         ArrayList<String> rowsToRemove = new ArrayList<>();
 
