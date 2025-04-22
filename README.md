@@ -1,4 +1,4 @@
-# P1
+# QM
 Final project for course.
 
 Main.java contains my attempt at writing a code for a QM algorithm.
